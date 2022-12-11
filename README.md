@@ -16,7 +16,7 @@
 
 ### Zur weiteren Vorbereitung auf den potentiellen Stromtankcheck anbei noch ein paar Quellen die ich für geeignet halte.
 
-Unser Allgemeinstrom 2021: ca. 12kw
+Unser Allgemeinstrom 2021: ca. 12000 kWh
 
 
 [https://energieagentur-regio-freiburg.eu/pv-mehrfamilienhaus/](https://energieagentur-regio-freiburg.eu/pv-mehrfamilienhaus/)
