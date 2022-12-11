@@ -18,21 +18,21 @@
 
 Hier werden die verschiedenen Konzepte gezeigt, die Details für 2023 sind da noch nicht mit dabei, aber man sieht die verschiedenen Konzepte die es gibt.
 
-Photovoltaikanlagen auf Mehrfamilienhäusern – wie funktioniert das?
+- Photovoltaikanlagen auf Mehrfamilienhäusern – wie funktioniert das?
 
 [https://youtu.be/8UIi9wtyYc4?t=596](https://youtu.be/8UIi9wtyYc4?t=596)
 
 
 Von der Truppe gibts noch viel mehr Videos, nur als Referenz
 
-Filme zur energetischen Sanierung in WEG/MFH
+- Filme zur energetischen Sanierung in WEG/MFH
 
 [https://www.youtube.com/playlist?list=PLVB1T3POSvP6QyNavlPBpEKpsC5Iib-aO](https://www.youtube.com/playlist?list=PLVB1T3POSvP6QyNavlPBpEKpsC5Iib-aO)
 
 
 Das Ganze auch als PDF Dokument:
 
-PV-Betriebskonzepte-Mehrfamilienhaus-Leitfaden
+- PV-Betriebskonzepte-Mehrfamilienhaus-Leitfaden
 
 [https://energieagentur-regio-freiburg.eu/wp-content/uploads/2022/01/PV-Betriebskonzepte-Mehrfamilienhaus-Leitfaden-Glossar-Energieagentur-Regio-Freiburg.pdf](https://energieagentur-regio-freiburg.eu/wp-content/uploads/2022/01/PV-Betriebskonzepte-Mehrfamilienhaus-Leitfaden-Glossar-Energieagentur-Regio-Freiburg.pdf)
 
