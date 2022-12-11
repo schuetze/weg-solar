@@ -11,6 +11,7 @@
 
 - Wäre es "clever" durch die WEG 24 * 11kw / 22kw Kabel legen zu lassen und die Ladestationen individuell zu realisieren?
 
+- Bei Wärmepumpen können ggf. „Sonnenstrom“- und Wärmepumpen-tarife zusammen genutzt werden. Das vorgeschlagene Messkonzepte ist mit dem VNB abzustimmen.
 
 
 ### Zur weiteren Vorbereitung auf den potentiellen Stromtankcheck anbei noch ein paar Quellen die ich für geeignet halte.
