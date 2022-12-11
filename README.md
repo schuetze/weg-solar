@@ -16,6 +16,7 @@
 
 ### Zur weiteren Vorbereitung auf den potentiellen Stromtankcheck anbei noch ein paar Quellen die ich für geeignet halte.
 
+[https://energieagentur-regio-freiburg.eu/pv-mehrfamilienhaus/](https://energieagentur-regio-freiburg.eu/pv-mehrfamilienhaus/)
 
 Hier werden die verschiedenen Konzepte gezeigt, die Details für 2023 sind da noch nicht mit dabei, aber man sieht die verschiedenen Konzepte die es gibt.
 
